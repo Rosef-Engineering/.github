@@ -1,4 +1,4 @@
-<a href="https://rosef.rs/"><img src="./logo.jpg" alt="Rosef" width="300"/></a><!--TODO move these image to .github repo-->  
+<a href="https://rosef.rs/"><img src="../profile/logo.jpg" alt="Rosef" width="300"/></a><!--TODO move these image to .github repo-->  
   
 ## Let's Electrify Africa
 
