@@ -19,6 +19,12 @@ For more information about the background of these points, please see:
 <!-- Icon source: https://uxwing.com/youtube-color-icon/ -->
    
 
+## Licensing
+  
+See the [LICENCE](LICENCE.txt) file for licence rights and limitations ([CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/)).  
+  
+
+
 ## Repository Content
 
 This repository contains the tools and content for generating README files for Rosef's repositories.
