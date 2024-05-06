@@ -1,4 +1,4 @@
-<a href="https://rosef.rs/"><img src="/profile/logo.jpg" alt="Rosef" width="300"/></a>  
+<a href="https://rosef.rs/"><img src="https://github.com/Rosef-Engineering/.github/raw/main/profile/logo.jpg" alt="Rosef" width="300"/></a>  
   
 ## Let's Electrify Africa
 
@@ -16,8 +16,8 @@ Removing redundant AC/DC conversion and the associated power losses and investme
 Avoiding compromises and keeping convenience without oversizing the system.  
   
 For more information about the background of these points, please see:
-1. [<img src="/profile/youtube-color-icon.png" alt="YouTube" width="20"/>Let's Electrify Africa Together](https://www.youtube.com/@RosefOfficial) (coming soon) <!--TODO insert link once video is out-->
-2. [<img src="/profile/youtube-color-icon.png" alt="YouTube" width="20"/>Our Vision for the Electrification of Africa](https://www.youtube.com/@RosefOfficial) (coming soon). <!--TODO insert link once video is out-->
+1. [<img src="https://github.com/Rosef-Engineering/.github/raw/main/profile/youtube-color-icon.png" alt="YouTube" width="20"/>Let's Electrify Africa Together](https://www.youtube.com/@RosefOfficial) (coming soon) <!--TODO insert link once video is out-->
+2. [<img src="https://github.com/Rosef-Engineering/.github/raw/main/profile/youtube-color-icon.png" alt="YouTube" width="20"/>Our Vision for the Electrification of Africa](https://www.youtube.com/@RosefOfficial) (coming soon). <!--TODO insert link once video is out-->
 <!-- Icon source: https://uxwing.com/youtube-color-icon/ -->
 
   
