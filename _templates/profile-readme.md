@@ -10,7 +10,7 @@ Below is a list of repositories along with a short description and the status fo
 ### [ELV socket PCB](https://github.com/Rosef-Engineering/ELV-socket_PCB)  
 The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system.  
 #### Status  
-
+<!--TODO status--> 
 
 <!-- TODO add repos here -->
 
