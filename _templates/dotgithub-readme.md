@@ -1,6 +1,6 @@
-<!-- include (title.md) -->   
+<!-- include (../_chapters/title.md) -->   
 
-This repository is a part of Rosef's efforts at developing <!-- include (intro.md) -->   
+This repository is a part of Rosef's efforts at developing <!-- include (../_chapters/intro.md) -->   
 
 ## Repository Content
 

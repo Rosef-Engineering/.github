@@ -1,6 +1,6 @@
-<!-- include (title.md) -->   
+<!-- include (../_chapters/title.md) -->   
 
-This project is a part of Rosef's efforts at developing <!-- include (intro.md) -->  
+This project is a part of Rosef's efforts at developing <!-- include (../_chapters/intro.md) -->  
 
 ## Licencing
 
