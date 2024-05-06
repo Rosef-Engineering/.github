@@ -14,4 +14,4 @@ Our goal is to develop all dark green components in the schematic above, but our
   <figcaption>Fig. 2 - MVP subset block diagram</figcaption>
 </figure>  
   
-For more information, please see [Requirements and Architecture](https://www.unodc.org/rosaf/uploads/images/b7e1e580-c611-11ea-9b24-523c65baea0e.png)<!--TODO create repo, archive doorstop repo-->. 
+For more information, please see [Requirements and Architecture]()<!--TODO create repo, archive doorstop repo-->. 
