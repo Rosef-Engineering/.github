@@ -1,3 +1,5 @@
+<!-- The goal of Rosef is to develop -->
+<!-- This project is a part of Rosef's efforts at developing -->
 a sustainable solution for electrification, with the main focus being on Africa. More specifically, our target is to start with homes and small businesses in Africa.
 With that in mind, it shouldn't be surprising that solar photovoltaic power is the basis of our solution.  
   
