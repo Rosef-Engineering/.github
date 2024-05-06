@@ -1,6 +1,4 @@
-<a href="https://rosef.rs/"><img src="https://github.com/Rosef-Engineering/.github/raw/main/profile/logo.jpg" alt="Rosef" width="300"/></a>  
-  
-## Let's Electrify Africa
+<!-- include (title.md) -->   
 
 This repository is a part of Rosef's efforts at developing <!-- include (intro.md) -->   
 

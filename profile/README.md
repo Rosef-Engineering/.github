@@ -1,8 +1,9 @@
 <a href="https://rosef.rs/"><img src="https://github.com/Rosef-Engineering/.github/raw/main/profile/logo.jpg" alt="Rosef" width="300"/></a>  
   
-## Let's Electrify Africa
+## Let's Electrify Africa 
+   
 
-The goal of Rosef is to develop <!-- The goal of Rosef is to develop // This project is a part of Rosef's efforts at developing -->a sustainable solution for electrification, with the main focus being on Africa. More specifically, our target is to start with homes and small businesses in Africa. Owing to the weather conditions in the majority of our target region, solar photovoltaic power is the basis of our solution.  
+The goal of Rosef is to develop <!-- The goal of Rosef is to develop // This project is a part of Rosef's efforts at developing -->a sustainable solution for electrification, with the main focus being on Africa. More specifically, our target is to start with homes and small businesses in Africa. Owing to the weather conditions in the majority of our target region, solar (photovoltaic) power is the basis of our solution.  
   
 Stemming from our goal of minimizing system cost without making compromises, the three key technical concepts of our approach are:  
 - **Use of direct energy storage methods**  
