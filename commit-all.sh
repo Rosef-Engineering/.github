@@ -4,7 +4,7 @@ git status
 git commit -am "$1"
 git push
 echo $'\n'
-cd ../elv_socket-plug/kicad/
+cd ../elv_socket/kicad/
 git restore --staged .
 git add "README.md"
 git status
