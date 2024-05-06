@@ -2,13 +2,11 @@
 
 This project is a part of Rosef's efforts at developing <!-- include (../_chapters/intro.md) -->  
 
-## Licencing
-
-See the [LICENCE](LICENCE.txt) file for licence rights and limitations (CERN-OHL-S). For guidelines on applying the licence see the [user guide](/docs/cern_ohl_s_v2_user_guide.txt).  
+<!-- include (../_chapters/hw_licensing.md) -->  
   
 ## System Architecture
   
-Derived from the concepts above, as well as the needs of our target application, Fig. 1 below depicts a high-level overview of the proposed architecture of a domestic electric installation, including all potential components and some appliances.  
+Derived from the concepts above, as well as the needs of our target application, Fig. 1 below depicts a high-level overview of the proposed architecture of a domestic electric installation, including all potential components and some appliances (including redundancies).  
 
 <figure>
   <img src="/docs/block_diagram_full.svg" alt="System block diagram" width="750"/>
@@ -43,13 +41,9 @@ In the diagrams in the previous section, the subject of this project (ELV socket
 If you would believe that you have a skill that would be useful to Rosef's efforts and would like to contribute, please start by 
 (WIP: concrete steps will be added here) <!--TODO figure out contributions-->
   
-If you would like to be involved continuously and to cooparate directly with other contributers, consider joining our [public discord]() <!--TODO figure out discord--> and by introducing yourself there.
-
-
-
-## More About Us
-
-For more information about our cause please see [rosef.rs](https://rosef.rs/). If you wish to support us financially, please visit [rosef.rs/support](https://rosef.rs/support). <!--TODO setup forwarding to youtube channel? (talk to Katarina)-->
+If you would like to be involved continuously and to cooparate directly with other contributers, consider joining our [public discord]() <!--TODO figure out discord--> and introducing yourself there.  
+  
+<!-- include (../_chapters/about-us.md) --> 
 
 
 
