@@ -39,12 +39,13 @@ For more information, please see [Requirements and Architecture]()<!--TODO creat
    
 
 ## Repositories and Project Status
-Below is a list of repositories along with a short description and the status for each.
+Below is a list of repositories along with a short description and the status for each.<p></p>
 
 * [ELV socket PCB](https://github.com/Rosef-Engineering/ELV-socket_PCB)  
 The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system.  
-__Status__  
-<!--TODO status--> 
+__<u>Status:</u>__  
+    - first prototype is being assembled (90%)  
+    - some changes to initial design implemented in SCH  
 
 <!-- TODO add repos here -->
 
