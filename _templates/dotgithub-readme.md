@@ -4,7 +4,7 @@ This repository is a part of Rosef's efforts at developing <!-- include (../_cha
 
 <!-- include (../_chapters/doc_licensing.md) -->
 
-# Repository Content
+## Repository Content
 
 This repository contains the tools and content for generating README files for Rosef's repositories.
 

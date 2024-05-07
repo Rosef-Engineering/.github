@@ -1,4 +1,4 @@
-# How to Contribute
+## How to Contribute
   
 If you would believe that you have a skill that would be useful to Rosef's efforts and would like to contribute, please start by 
 (WIP: concrete steps will be added here) <!--TODO figure out contributions-->
