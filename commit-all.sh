@@ -2,15 +2,20 @@
 
 [ $# -lt 1 ] && echo $'Error - no commit message\n' && exit 1
 
-git add .
-git status
+if [[ -n $(git status --porcelain) ]]; then
+    git add .
+    git status
 
-read -n1 -p "Continue? [y/N] " reply
-echo ""
-[ "$reply" != "Y" ] && [ "$reply" != "y" ] && echo $'Aborting\n' && exit 1
+    read -n1 -p "Continue? [y/N] " reply
+    echo ""
+    [ "$reply" != "Y" ] && [ "$reply" != "y" ] && echo $'Aborting\n' && exit 1
 
-git commit -m "$1"
-git push
+    git commit -m "$1"
+    git push
+else
+    echo "No changes"
+    exit 1
+fi
 
 #####################
 # elv_socket/kicad/
@@ -23,12 +28,12 @@ read -n1 -p "Continue? [y/N] " reply
 echo ""
 [ "$reply" != "Y" ] && [ "$reply" != "y" ] && echo $'Aborting\n' && exit 1
 
-git stash --staged .
+git stash push --staged .
 git add "README.md"
 git status
 git commit -m "$1"
 git push
-git pop
+git stash pop
 cd ../../github-doc
 
 #####################
@@ -42,10 +47,10 @@ read -n1 -p "Continue? [y/N] " reply
 echo ""
 [ "$reply" != "Y" ] && [ "$reply" != "y" ] && echo $'Aborting\n' && exit 1
 
-git stash --staged .
+git stash push --staged .
 git add "README.md"
 git status
 git commit -m "$1"
 git push
-git pop
+git stash pop
 cd ../github-doc
