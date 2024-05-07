@@ -15,11 +15,11 @@ echo ""
 
 git commit -m "$1"
 git push
+echo $'\n'
 
 #####################
 # elv_socket/kicad/
 
-echo $'\n'
 cd ../elv_socket/kicad/
 
 if [[ -n $(git status --porcelain) ]]; then
@@ -39,11 +39,11 @@ else
     echo "No changes in elv_socket/kicad/"
 fi
 cd ../../github-doc
+echo $'\n'
 
 #####################
 # reqs-arch/
 
-echo $'\n'
 cd ../reqs-arch/
 
 if [[ -n $(git status --porcelain) ]]; then
@@ -62,7 +62,8 @@ if [[ -n $(git status --porcelain) ]]; then
 else
     echo "No changes in reqs-arch/"
 fi
-cd ../github-doc
+cd ../github-doc/
+echo $'\n'
 
 
 
