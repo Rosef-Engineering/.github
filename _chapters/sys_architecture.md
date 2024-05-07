@@ -1,4 +1,4 @@
-## System Architecture
+# System Architecture
   
 Derived from the concepts above, as well as the needs of our target application, Fig. 1 below depicts a high-level overview of the proposed architecture of a domestic electric installation, including all potential components and some appliances (including redundancies).  
 

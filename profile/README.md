@@ -1,6 +1,6 @@
 <a href="https://rosef.rs/"><img src="https://github.com/Rosef-Engineering/.github/raw/main/profile/logo.jpg" alt="Rosef" width="300"/></a>  
   
-## Let's Electrify Africa 
+# Let's Electrify Africa 
    
 
 The goal of Rosef is to develop <!-- The goal of Rosef is to develop // This project is a part of Rosef's efforts at developing -->a sustainable solution for electrification, with the main focus being on Africa. More specifically, our target is to start with homes and small businesses in Africa. Owing to the weather conditions in the majority of our target region, solar (photovoltaic) power is the basis of our solution.  
@@ -19,7 +19,7 @@ For more information about the background of these points, please see:
 <!-- Icon source: https://uxwing.com/youtube-color-icon/ -->  
 
   
-## System Architecture
+# System Architecture
   
 Derived from the concepts above, as well as the needs of our target application, Fig. 1 below depicts a high-level overview of the proposed architecture of a domestic electric installation, including all potential components and some appliances (including redundancies).  
 
@@ -38,18 +38,18 @@ Our goal is to develop all dark green components in the schematic above, but our
 For more information, please see [Requirements and Architecture]()<!--TODO create repo, archive doorstop repo-->. 
    
 
-## Repositories and Project Status
+# Repositories and Project Status
 Below is a list of repositories along with a short description and the status for each.
 
-### [ELV socket PCB](https://github.com/Rosef-Engineering/ELV-socket_PCB)  
+## [ELV socket PCB](https://github.com/Rosef-Engineering/ELV-socket_PCB)  
 The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system.  
-#### Status  
+### Status  
 <!--TODO status--> 
 
 <!-- TODO add repos here -->
 
 
-## More About Us
+# More About Us
 
 For more information about our cause please see [rosef.rs](https://rosef.rs/). If you wish to support us financially, please visit [rosef.rs/support](https://rosef.rs/support). <!--TODO setup forwarding to youtube channel? (talk to Katarina)--> 
  
