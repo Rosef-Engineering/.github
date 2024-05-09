@@ -39,13 +39,34 @@ For more information, please see [Requirements and Architecture]()<!--TODO creat
    
 
 ## Repositories and Project Status
-Below is a list of repositories along with a short description and the status for each.<p></p>
+Below is a list of repositories along with a short description and the status for each.  
 
-* [ELV socket PCB](https://github.com/Rosef-Engineering/ELV-socket_PCB)  
-The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system.  
+* [Requirements and Architecture](https://github.com/Rosef-Engineering/requirements-and-architecture)  
+The goal of this repository and its contents is to document the design of the system and of its components in order to enable technical discussion and development coordination.  
 __<u>Status:</u>__  
-    - first prototype is being assembled (90%)  
-    - some changes to initial design implemented in SCH  
+    - [continuous] full block diagram done (100%)  
+    - mvp block diagram done (100%)  
+    - ELV Socket block diagram done (100%)  
+    - Battery Mini block diagram in progress (10%)  
+    - markdown documents to be started (0%)  
+
+* [ELV Socket PCB](https://github.com/Rosef-Engineering/ELV-socket_PCB)(to be published soon)  
+The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system. This repository contains the KiCad project for the PCB design of the ELV socket.  
+__<u>Status:</u>__  
+    - first prototype assembly in progress (90%)  
+    - second prototype schematic updates in progress (1/?)   
+
+<!--
+* [ELV Socket FW](https://github.com/Rosef-Engineering/ELV-socket_FW)(to be published soon)  
+The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system. This repository contains the CUBE IDE project for the firmware of the ELV socket.  
+__<u>Status:</u>__  
+    - first prototype code in progress (90%)     
+    
+* [Battery Mini PCB](https://github.com/Rosef-Engineering/Battery-mini_PCB)(to be published soon)  
+(description here)  
+__<u>Status:</u>__  
+    - first prototype schematic in progress (90%)   
+-->
 
 <!-- TODO add repos here -->
 
@@ -54,7 +75,6 @@ __<u>Status:</u>__
 
 For more information about our cause please see [rosef.rs](https://rosef.rs/). If you wish to support us financially, please visit [rosef.rs/support](https://rosef.rs/support). <!--TODO setup forwarding to youtube channel? (talk to Katarina)--> 
  
-
 
 
 
