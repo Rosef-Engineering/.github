@@ -22,17 +22,17 @@ __<u>Status:</u>__
     - first prototype assembly in progress (90%)  
     - second prototype schematic updates in progress (1/?)   
 
-<!--
 * [ELV Socket FW](https://github.com/Rosef-Engineering/ELV-socket_FW)(to be published soon)  
 The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system. This repository contains the CUBE IDE project for the firmware of the ELV socket.  
 __<u>Status:</u>__  
-    - first prototype code in progress (90%)     
+    - first prototype code in progress (90%)  
     
 * [Battery Mini PCB](https://github.com/Rosef-Engineering/Battery-mini_PCB)(to be published soon)  
 (description here)  
 __<u>Status:</u>__  
-    - first prototype schematic in progress (90%)   
--->
+    - first prototype schematic in progress (90%)  
+    - first prototype PCB design to be done
+
 
 <!-- TODO add repos here -->
 
