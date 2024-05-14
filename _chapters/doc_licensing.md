@@ -1,4 +1,4 @@
 ## Licensing
   
-The contents of this repository and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/). See the [LICENCE](LICENCE.txt) file for the legal code.  
-  
+Most of the contents of this repository and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/). See the [LICENCE](/LICENCE.txt) file for the legal code.  
+See the [COPYRIGHT](/COPYRIGHT.txt) file for file-specific information.  
