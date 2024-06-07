@@ -16,7 +16,7 @@ In the diagrams in the previous section, the subject of this project (ELV socket
 The ELV socket connects to the ELV bus at the input and provides multiple outputs at the same voltage level, each with a limited current capacity which can be negotiated. The ELV socket also connects to the Rosef CAN (RCAN) bus on the input side, as well as the Rosef Serial Interface (RSI) on the output side.  
   
 <figure>
-  <img src="/docs/bd_elv-socket.svg" alt="ELV socket block diagram" width="750"/>
+  <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/bd_elv-socket.svg" alt="ELV socket block diagram" width="750"/>
   <figcaption>Fig. 3 - ELV socket block diagram</figcaption>
 </figure>
 
