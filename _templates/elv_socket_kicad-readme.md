@@ -32,7 +32,7 @@ __<u>Status:</u>__
   - PCB design done  
   - assembly in progress (90%)  
 * second prototype  
-  - schematic updates in progress (1/?)   
+  - schematic updates to be done (0/2+)   
 
 <!-- include (../_chapters/how-to-contribute.md) -->
   
