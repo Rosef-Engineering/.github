@@ -32,8 +32,10 @@ __<u>Status:</u>__
   - PCB design done  
   - assembly in progress (90%)  
 * second prototype  
-  - schematic updates to be done (0/2+)   
-
+  - schematic updates to be done (0/4+)   
+  
+See the list of changes in the [CHANGES.md](/CHANGES.md) file.
+  
 <!-- include (../_chapters/how-to-contribute.md) -->
   
   
