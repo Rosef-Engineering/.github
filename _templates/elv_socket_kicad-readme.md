@@ -36,7 +36,7 @@ __<u>Status:</u>__
   
 See the list of changes in the [CHANGES.md](/CHANGES.md) file.
   
-<!-- include (../_chapters/how-to-contribute.md) -->
+<!-- include (../_chapters/how-to-contribute-hw.md) -->
   
   
 <!-- include (../_chapters/about-us.md) --> 

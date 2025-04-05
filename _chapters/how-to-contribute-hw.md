@@ -8,5 +8,5 @@ To get started, please follow these steps:
 3. Find the selected component in [this list](https://github.com/Rosef-Engineering/requirements-and-architecture#repository-content) and understand its architecture.  
 4. Fork the project to your personal github profile.  
 5. Clone the forked repo and implement the contributions you would like to submit.  
-6. Take care to follow any licence related rules relevant for that repo.  
+6. In the case of a hardware repo, like this one, take care to follow the rules set out in the [licence user guide](https://ohwr.org/project/cernohl/wikis/uploads/cf37727497ca2b5295a7ab83a40fcf5a/cern_ohl_s_v2_user_guide.pdf).  
 7. Push your changes and submit a change request. <!-- TODO Decision: leave room for change of licence? -->  
