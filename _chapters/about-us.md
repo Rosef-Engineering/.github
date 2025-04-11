@@ -8,6 +8,4 @@ If you wish to support us financially, please use one of the following options:
 
 * [Patreon](https://patreon.com/Rosef)
 
-* [OpenCollective](https://opencollective.com/rosef)
-
 * [SubscribeStar](https://www.subscribestar.com/rosef)
