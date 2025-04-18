@@ -20,12 +20,18 @@ __<u>Status:</u>__
 The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system. This repository contains the KiCad project for the PCB design of the ELV socket.  
 __<u>Status:</u>__  
     - first prototype assembly in progress (90%)  
-    - second prototype schematic updates in progress (1/?)   
+    - second prototype schematic updates in progress (1/5+)   
 
 * [ELV Socket FW](https://github.com/Rosef-Engineering/ELV-socket_FW)(to be published soon)  
 The ELV socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system. This repository contains the CUBE IDE project for the firmware of the ELV socket.  
 __<u>Status:</u>__  
     - first prototype code in progress (90%)  
+    
+* [Battery Mini Calc](https://github.com/Rosef-Engineering/Battery-mini_Calc)(to be published soon)  
+(description here)  
+__<u>Status:</u>__  
+    - first prototype converter design done  
+    - cleanup in progress (30%)  
     
 * [Battery Mini PCB](https://github.com/Rosef-Engineering/Battery-mini_PCB)(to be published soon)  
 (description here)  
@@ -36,6 +42,7 @@ __<u>Status:</u>__
 
 <!-- TODO add repos here -->
 
+<!-- include (../_chapters/how-to-contribute.md) --> 
 
 <!-- include (../_chapters/about-us.md) --> 
 
