@@ -12,9 +12,7 @@ Currently, the block diagrams are created in [Ipe](https://ipe.otfried.org/), ex
 2.  [ELV Socket architecture]()<!-- TODO -->  
 
 
-## How to Contribute
-
-<!-- TODO review our documentation, review our project repositories to see if they align with documentation -->
+<!-- include (../_chapters/how-to-contribute.md) --> 
 
 
 <!-- include (../_chapters/about-us.md) --> 
