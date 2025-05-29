@@ -4,6 +4,8 @@ This repository is a part of Rosef's efforts at developing <!-- include (../_cha
 
 <!-- include (../_chapters/doc_licensing.md) -->
 
+<!-- include (../_chapters/sys_architecture.md) -->  
+
 ## Repository Content
 
 The goal of this repository and its contents is to document the design of the system and its components in order to enable technical discussions and development coordination. In the long term, the target is to have detailed requirements and architecture, assuring traceability and consistency throughout the development process.  
