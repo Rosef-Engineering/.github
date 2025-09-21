@@ -10,8 +10,8 @@ A robust, repairable and reliable __generic motor drive__, which could easily be
 <!--That being said, __interior lighting__ is helpful for productive use cases as much as for domestic ones.-->
 
 <figure>
-  <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage1.svg" alt="Stage I Block Diagram" width="750"/>
-  <figcaption>Fig. 1 - Stage I Block Diagram.</figcaption>
+  <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage1.svg" alt="Stage I Block Diagram" width="1000"/>
+  <figcaption>Stage I Block Diagram.</figcaption>
 </figure>  
 
 As shown in the resulting block diagram in the figure above, the components which need to be developed in order to achieve this stage include:
@@ -26,20 +26,20 @@ As shown in the resulting block diagram in the figure above, the components whic
 ### Stage II - Water, Food Storage and Community Lighting
 
 <figure>
-  <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage2.svg" alt="Stage II Block Diagram" width="750"/>
-  <figcaption>Fig. 2 - Stage II Block Diagram.</figcaption>
+  <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage2.svg" alt="Stage II Block Diagram" width="1000"/>
+  <figcaption>Stage II Block Diagram.</figcaption>
 </figure>  
 
 As shown in the resulting block diagram in the figure above, the components which need to be developed in order to achieve this stage include:
 
-* __Water Well System__ - a water well and tower system which help efficiently manage electricity usage
+* __Water Well System__ - a water well and tower system which helps efficiently manage electricity usage
 * __Ice Thermal Storage Refrigerator__ - a refrigerator with a compartment with water which can be frozen and used as thermal storage
 
 ### Stage III - Low Power Kitchen
 
 <figure>
-  <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage3.svg" alt="Stage III Block Diagram" width="750"/>
-  <figcaption>Fig. 3 - Stage III Block Diagram.</figcaption>
+  <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage3.svg" alt="Stage III Block Diagram" width="1000"/>
+  <figcaption>Stage III Block Diagram.</figcaption>
 </figure>  
 
 
