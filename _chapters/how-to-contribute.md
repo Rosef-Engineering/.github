@@ -1,6 +1,6 @@
 ## How to Contribute
   
-If you would believe that you have a skill that would be useful to Rosef's efforts and would like to contribute, consider joining our [Discord community](https://discord.gg/ryhPa73Cs3) and introducing yourself there.
+If you believe that you have a skill that could be useful to Rosef's efforts and would like to contribute, consider joining our [Discord community](https://discord.gg/ryhPa73Cs3) and introducing yourself there.
 
 To get started, please follow these steps:  
 1. Understand the system architecture described in the [Requirements and Architecture repository](https://github.com/Rosef-Engineering/requirements-and-architecture).  
