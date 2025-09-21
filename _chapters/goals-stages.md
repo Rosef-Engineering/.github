@@ -13,7 +13,7 @@ A robust, repairable and reliable __generic motor drive__, which could easily be
 
 <figure>
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage1.svg" alt="Stage I Block Diagram" width="900"/>
-  <figcaption>Stage I Block Diagram.</figcaption>
+  <figcaption>Figure: Stage I Block Diagram</figcaption>
 </figure>  
 <br/><br/>
 
@@ -32,7 +32,7 @@ The goal of this stage is to implement direct energy storage systems and in doin
 
 <figure>
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage2.svg" alt="Stage II Block Diagram" width="900"/>
-  <figcaption>Stage II Block Diagram.</figcaption>
+  <figcaption>Figure: Stage II Block Diagram</figcaption>
 </figure>  
 <br/><br/>
 
@@ -47,7 +47,7 @@ Another challenging question for rural and unelectrified areas is __clean cookin
 
 <figure>
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage3.svg" alt="Stage III Block Diagram" width="900"/>
-  <figcaption>Stage III Block Diagram.</figcaption>
+  <figcaption>Figure: Stage III Block Diagram</figcaption>
 </figure>  
 <br/><br/>
   
@@ -61,7 +61,7 @@ As mentioned above, the initial stages all exclusively use ELV due to the safety
 
 <figure>
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/dual_concept.svg" alt="Dual Concept Block Diagram" width="750"/>
-  <figcaption>Dual Concept Block Diagram.</figcaption>
+  <figcaption>Figure: Dual Concept Block Diagram</figcaption>
 </figure>  
 <br/><br/>
 
