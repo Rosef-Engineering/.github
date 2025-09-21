@@ -1,4 +1,4 @@
-## Goals
+## Goals and Architecture
 Due to the scope of Rosef's goals, it is necessary to define priorities in order to focus efforts and achieve targets. This prioritization should be done based on required effort as well as importance of functionality for the end user. Based on these points, the following development stages have been defined. The initial stages all exclusively use extra low voltage (ELV), in order to minimize costs and development effort while ensuring safety.
 
 It should be noted that these stages are simply a reflection of the current plan and are flexible both in terms of overlap as well as complete restructuring according to the above stated prioritization parameters as well as the available knowledge base of the contributors.
@@ -15,7 +15,9 @@ A robust, repairable and reliable __generic motor drive__, which could easily be
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage1.svg" alt="Stage I Block Diagram" width="900"/>
   <figcaption>Stage I Block Diagram.</figcaption>
 </figure>  
-
+  
+  
+  
 As shown in the resulting block diagram in the figure above, the components which need to be developed in order to achieve this stage include:
 
 * __Battery Mini__ - a modular electrical energy storage unit interfaced to the nano-grid through a bidirectional converter
@@ -27,13 +29,15 @@ As shown in the resulting block diagram in the figure above, the components whic
 
 ### Stage II - Water, Food Storage and Community Lighting
 
-The goal of this stage is to implement direct energy storage systems and in doing so solve two topics which are important in many rural areas in Africa. In short, the two topics are the question of water supply and of food storage.
+The goal of this stage is to implement direct energy storage systems and in doing so solve two topics which are important in many rural areas in Africa. In short, the two topics are the question of __water supply__ and of __food storage__.
 
 <figure>
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage2.svg" alt="Stage II Block Diagram" width="900"/>
   <figcaption>Stage II Block Diagram.</figcaption>
 </figure>  
-
+  
+  
+  
 As shown in the resulting block diagram in the figure above, the components which need to be developed in order to achieve this stage include:
 
 * __Water Well System__ - a water well and tower system which helps efficiently manage electricity usage
@@ -41,13 +45,15 @@ As shown in the resulting block diagram in the figure above, the components whic
 
 ### Stage III - Low Power Kitchen
 
-Another challenging question for rural and unelectrified areas is clean cooking. This is a topic which cannot be fully covered with the power limitations of an ELV system ([see Dual Concept below](https://github.com/Rosef-Engineering/.github/blob/main/_chapters/goals-stages.md#dual-concept)), but some kitchen appliances do not require high power and those are the target of this stage.
+Another challenging question for rural and unelectrified areas is __clean cooking__. This is a topic which cannot be fully covered with the power limitations of an ELV system ([see Dual Concept below](https://github.com/Rosef-Engineering/.github/blob/main/_chapters/goals-stages.md#dual-concept)), but some kitchen appliances do not require high power and those are the target of this stage.
 
 <figure>
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage3.svg" alt="Stage III Block Diagram" width="900"/>
   <figcaption>Stage III Block Diagram.</figcaption>
 </figure>  
-
+  
+  
+  
 As shown in the resulting block diagram in the figure above, the components which need to be developed in order to achieve this stage include:
 
 * __Microwave Oven__ - adapted so that it can be supplied from an ELV line
@@ -60,4 +66,6 @@ As mentioned above, the initial stages all exclusively use ELV due to the safety
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/dual_concept.svg" alt="Dual Concept Block Diagram" width="750"/>
   <figcaption>Dual Concept Block Diagram.</figcaption>
 </figure>  
-
+  
+  
+  
