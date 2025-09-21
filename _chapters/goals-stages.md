@@ -15,9 +15,8 @@ A robust, repairable and reliable __generic motor drive__, which could easily be
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage1.svg" alt="Stage I Block Diagram" width="900"/>
   <figcaption>Stage I Block Diagram.</figcaption>
 </figure>  
-  
-  
-  
+<br/><br/>
+
 As shown in the resulting block diagram in the figure above, the components which need to be developed in order to achieve this stage include:
 
 * __Battery Mini__ - a modular electrical energy storage unit interfaced to the nano-grid through a bidirectional converter
@@ -35,9 +34,8 @@ The goal of this stage is to implement direct energy storage systems and in doin
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage2.svg" alt="Stage II Block Diagram" width="900"/>
   <figcaption>Stage II Block Diagram.</figcaption>
 </figure>  
-  
-  
-  
+<br/><br/>
+
 As shown in the resulting block diagram in the figure above, the components which need to be developed in order to achieve this stage include:
 
 * __Water Well System__ - a water well and tower system which helps efficiently manage electricity usage
@@ -51,8 +49,7 @@ Another challenging question for rural and unelectrified areas is __clean cookin
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/stage3.svg" alt="Stage III Block Diagram" width="900"/>
   <figcaption>Stage III Block Diagram.</figcaption>
 </figure>  
-  
-  
+<br/><br/>
   
 As shown in the resulting block diagram in the figure above, the components which need to be developed in order to achieve this stage include:
 
@@ -66,6 +63,5 @@ As mentioned above, the initial stages all exclusively use ELV due to the safety
   <img src="https://raw.githubusercontent.com/Rosef-Engineering/requirements-and-architecture/main/export-svg/dual_concept.svg" alt="Dual Concept Block Diagram" width="750"/>
   <figcaption>Dual Concept Block Diagram.</figcaption>
 </figure>  
-  
-  
-  
+<br/><br/>
+
