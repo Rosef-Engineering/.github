@@ -4,7 +4,7 @@ This repository is a part of Rosef's efforts at developing <!-- include (../_cha
 
 <!-- include (../_chapters/doc_licensing.md) -->
 
-<!-- include (../_chapters/sys_architecture.md) -->  
+<!-- include (../_chapters/goals-stages.md) -->  
 
 ## Repository Content
 
