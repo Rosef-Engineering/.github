@@ -1,4 +1,4 @@
-#!/run/current-system/sw/bin/bash
+#!/bin/bash
 
 ./markdown_include/markdown_include.py _templates/profile-readme.md profile/README.md
 echo "profile readme done"

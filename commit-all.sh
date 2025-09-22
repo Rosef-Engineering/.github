@@ -1,4 +1,4 @@
-#!/run/current-system/sw/bin/bash
+#!/bin/bash
 
 [ $# -lt 1 ] && echo $'Error - no commit message\n' && exit 1
 
