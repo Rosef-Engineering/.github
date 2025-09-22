@@ -17,7 +17,7 @@ __<u>Status:</u>__
         * Dual Concept done (100%)  
     - ELV Socket block diagram done (100%)  
     - Battery Mini block diagram done (100%)  
-    - Markdown documents to be started (0%)  
+    - Markdown documents to be done  
 
 * [ELV Socket](https://github.com/Rosef-Engineering/ELV_Socket) (to be published soon)  
 The ELV Socket is meant to provide an interface for appliances to connect to the ELV bus and to communicate with the system. This repository contains the KiCad project for the PCB design of the ELV socket and the CUBE IDE project for the firmware of the ELV socket.  
