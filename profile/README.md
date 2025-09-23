@@ -118,7 +118,7 @@ __<u>Status:</u>__
 * [Battery Mini Calc](https://github.com/Rosef-Engineering/Battery-mini_Calc) (to be published soon)  
 (description here)  
 __<u>Status:</u>__  
-    - First prototype converter design done  
+    - First prototype converter design done (100%)  
     - Cleanup in progress (40%)  
     
 * [Battery Mini](https://github.com/Rosef-Engineering/Battery-Mini) (to be published soon)  
