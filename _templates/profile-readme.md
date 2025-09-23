@@ -40,13 +40,7 @@ __<u>Status:</u>__
 __<u>Status:</u>__  
     - First prototype schematic done (100%)  
     - First prototype PCB design done (100%)  
-    
-* [PV Mini](https://github.com/Rosef-Engineering/PV-Mini) (to be published soon)  
-(description here)  
-__<u>Status:</u>__  
-    - Repository creation to be done  
-    - First prototype schematic to be done  
-
+  
 
 <!-- TODO add repos here -->
 
