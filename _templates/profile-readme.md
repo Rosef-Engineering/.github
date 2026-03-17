@@ -27,19 +27,23 @@ __<u>Status:</u>__
     - First prototype PCB design done (100%)  
     - First prototype firmware in progress (90%)  
     - First prototype assembly in progress (90%)  
-    - Second prototype schematic updates to be done  
-    
-* [Battery Mini Calc](https://github.com/Rosef-Engineering/Battery-mini_Calc) (to be published soon)  
-(description here)  
-__<u>Status:</u>__  
-    - First prototype converter design done (100%)  
-    - Cleanup in progress (40%)  
+    - Second prototype schematic to be done  
     
 * [Battery Mini](https://github.com/Rosef-Engineering/Battery-Mini) (to be published soon)  
 (description here)  
 __<u>Status:</u>__  
     - First prototype schematic done (100%)  
     - First prototype PCB design done (100%)  
+    - First prototype assembly done (100%)  
+    - First prototype testing in progress (30%)
+    - Second prototype schematic to be done  
+    
+* [Battery Mini Calc](https://github.com/Rosef-Engineering/Battery-mini_Calc) (to be merged with Battery Mini)  
+(description here)  
+__<u>Status:</u>__  
+    - First prototype converter design done (100%)  
+    - First prototype converter control in progress (90%)  
+    - Cleanup to be done (40%)  
   
 
 <!-- TODO add repos here -->
